@@ -259,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1496494814418</updated>
       <workItem from="1496494817265" duration="17364000" />
-      <workItem from="1496672411636" duration="13526000" />
+      <workItem from="1496672411636" duration="13609000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30890000" />
+    <option name="totallyTimeSpent" value="30973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="6" />
@@ -314,22 +314,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/assets/logo.png">
+    <entry file="file://$PROJECT_DIR$/test/assets/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/assets/LP1_guidlines.png">
+    <entry file="file://$PROJECT_DIR$/test/assets/LP1_guidlines.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/assets/stars.png">
+    <entry file="file://$PROJECT_DIR$/test/assets/stars.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/styles/main.css">
+    <entry file="file://$PROJECT_DIR$/test/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
@@ -337,7 +337,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/js/main.js">
+    <entry file="file://$PROJECT_DIR$/test/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
@@ -355,7 +355,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/assets/war-thunder-image.png">
+    <entry file="file://$PROJECT_DIR$/test/assets/war-thunder-image.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -382,7 +382,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/index.html">
+    <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
@@ -406,7 +406,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lp1/index.html">
+    <entry file="file://$PROJECT_DIR$/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
