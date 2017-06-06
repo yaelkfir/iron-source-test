@@ -2,9 +2,9 @@
 
   const queryString = {};
 
-  const AboteMincraft = 'Andy breaks down the barrier between desktop and mobile computing, while keeping a user up to date with the latest Android OS feature upgrades. It also provides users with unlimited storage capacity, PC and Mac compatibility, and the freedom to play the most popular mobile games on a desktop, Yes you can now run Android on windows. With phone as a joystick, you will never have to sacrifice the multi-touch or gyro elements of gaming, and thanks to seamless connection between desktop and mobile, you can receive a SnapChat phone picture on the street and see it on your desktop at home or even a whatsapp message.'
+  const abouteMincraft = 'Andy breaks down the barrier between desktop and mobile computing, while keeping a user up to date with the latest Android OS feature upgrades. It also provides users with unlimited storage capacity, PC and Mac compatibility, and the freedom to play the most popular mobile games on a desktop, Yes you can now run Android on windows. With phone as a joystick, you will never have to sacrifice the multi-touch or gyro elements of gaming, and thanks to seamless connection between desktop and mobile, you can receive a SnapChat phone picture on the street and see it on your desktop at home or even a whatsapp message.'
 
-  const textminecraft = 'Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs.';
+  const textMinecraft = 'Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs.';
 
   function changeImgs(product){
 
@@ -21,8 +21,8 @@
     const text1 = document.querySelector('.text1');
     const about = document.querySelector('.p-about');
 
-    text1.textContent = textminecraft;
-    about.textContent = AboteMincraft
+    text1.textContent = textMinecraft;
+    about.textContent = abouteMincraft
   }
 
   function changeBtn(queryString){
@@ -46,6 +46,7 @@
 
     const query = window.location.search.substring(1);
     const params = query.split("&");
+
     for (let i = 0; i < params.length; i++) {
       const pair = params[i].split("=");
 
@@ -82,10 +83,7 @@
     }
   }
 
-
   getParams();
   changeElementsByParams();
-
-  console.info(queryString);
-
+  
 })();

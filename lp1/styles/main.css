@@ -3,10 +3,6 @@
   box-sizing: border-box;
 }
 
-html, body {
-
-}
-
 .hero-img {
   background-image: url('../assets/war-thunder-image.png');
   background-size: cover;

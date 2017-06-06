@@ -41,10 +41,7 @@
     }
   }
 
-
   getParams();
   changeElementsByParams();
-
-  console.info(queryString);
 
 })();
