@@ -28,7 +28,6 @@
 
     if (queryString.bcolor) {
       downloadBtn.style.backgroundColor = `#${queryString.bcolor}`;
-      console.info(downloadBtn);
     }
     if (queryString.btext) {
       downloadBtn.innerHTML = `<i class="material-icons">file_download</i>${queryString.btext}`
