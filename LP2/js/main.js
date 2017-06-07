@@ -72,7 +72,7 @@
       const productSpan = document.querySelectorAll('.product-name');
 
       for (const span of productSpan) {
-        span.textContent =  queryString.prod.split('+').join(' ');;
+        span.textContent =  queryString.prod.split('+').join(' ');
       }
 
       changeImgs(queryString.prod);
